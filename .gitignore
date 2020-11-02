@@ -1,0 +1,23 @@
+# Images
+
+*.zst
+*.img
+
+# Configs
+
+*/config
+local-config
+multiboot/boot.conf
+p-boot/p-boot-conf-native
+
+# Build directories
+
+*/m/
+
+# Kernel builds
+
+kernel-builds/*
+!kernel-builds/README.md # keep readme
+!kernel-builds/get-latest.sh # keep get script
+
+
