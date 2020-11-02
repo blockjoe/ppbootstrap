@@ -17,7 +17,7 @@ p-boot/p-boot-conf-native
 # Kernel builds
 
 kernel-builds/*
-!kernel-builds/README.md # keep readme
-!kernel-builds/get-latest.sh # keep get script
+\!kernel-builds/README.md # keep readme
+\!kernel-builds/get-latest.sh # keep get script
 
 
